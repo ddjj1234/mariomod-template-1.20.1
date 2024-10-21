@@ -38,7 +38,7 @@ public class BananaProjectileEntity extends ThrownItemEntity {
             this.getWorld().sendEntityStatus(this, (byte)3);
             this.getWorld().setBlockState(getBlockPos(), ModBlocks.BANANA_BLOCK.getDefaultState(), 3);
         }
-
+        
         this.discard();
         super.onBlockHit(blockHitResult);
     }
