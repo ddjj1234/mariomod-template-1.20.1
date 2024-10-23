@@ -16,7 +16,7 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
     public static final Block BANANA_BLOCK = registerBlock("banana_block", 
-    new BananaBlock(FabricBlockSettings.copyOf(Blocks.STONE).nonOpaque().noCollision()));
+    new Block(FabricBlockSettings.copyOf(Blocks.STONE).nonOpaque().noCollision()));
 
 
     private static Block registerBlock(String name, Block block) {
