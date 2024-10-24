@@ -1,7 +1,6 @@
 package net.jeremy.mariomod.entity.custom;
 
 import net.jeremy.mariomod.block.ModBlocks;
-import net.jeremy.mariomod.block.custom.BananaBlock;
 import net.jeremy.mariomod.entity.ModEntities;
 import net.jeremy.mariomod.item.ModItems;
 import net.minecraft.entity.EntityType;

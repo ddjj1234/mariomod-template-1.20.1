@@ -5,7 +5,6 @@ import java.time.Duration;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.jeremy.mariomod.Mariomod;
-import net.jeremy.mariomod.block.custom.BananaBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.BlockItem;
